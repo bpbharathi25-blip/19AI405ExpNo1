@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: KEERTHYVASAN G
-<h3>Register Number: 212224210011
+<h3>Name: Bharathi P
+<h3>Register Number: 212224060043
 
 
 <h3>AIM:</h3>
