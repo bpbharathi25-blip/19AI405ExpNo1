@@ -1,12 +1,10 @@
-<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+ <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: Bharathi P </h3>
-<h3>Register Number/Staff Id: 212224060043</h3>
+<h3>Register Number: 212224060043</h3>
 
 
 <h3>AIM:</h3>
-<br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
-<br>
 <h3>Theory</h3>
 <h3>Medicine prescribing agent:</h3>
 <p>Such this agent prescribes medicine for fever (greater than 98.5 degrees) which we consider here as unhealthy, by the user temperature input, and another environment is rooms in the hospital (two rooms). This agent has to consider two factors one is room location and an unhealthy patient in a random room, the agent has to move from one room to another to check and treat the unhealthy person. The performance of the agent is calculated by incrementing performance and each time after treating in one room again it has to check another room so that the movement causes the agent to reduce its performance. Hence, agents prescribe medicine to unhealthy.</p>
@@ -40,7 +38,7 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-
+<H3>PROGRAM:</H3>
 
 ```
 import random
@@ -83,7 +81,10 @@ print(f"Final Performance Score: {performance_score}")
 print("Environment State:", environment)
 ```
 
+OUTPUT:
 
+<img width="1060" height="511" alt="image" src="https://github.com/user-attachments/assets/421c4595-9890-403d-92f3-185ff8b4805e" />
 
-<img width="776" height="266" alt="image" src="https://github.com/user-attachments/assets/e3b4f2a5-6e09-494e-be4f-2a25e4ef03c4" />
+RESULT:
 
+Thus the AI agent is developed successfully
